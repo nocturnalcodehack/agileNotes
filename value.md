@@ -1,7 +1,11 @@
 # Categories of Value
 
-* Customer Experience (e.g.,Functionality, NPS Improvement)
-* Stakeholder
+1. Customer Experience
+  * New Functionality
+  * NPS Improvement
+2. Stakeholder
   * Financial (Revenue / Cost)
   * Market (Shareholder)
-* Enablement (Tech Debt, Learning)
+3. Enablement
+  * Tech Debt
+  * Learning
