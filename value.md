@@ -2,7 +2,7 @@
 
 1. Customer Experience
   * New Functionality
-  * NPS Improvement
+  * UserSat Improvement
 2. Stakeholder
   * Financial (Revenue / Cost)
   * Market (Shareholder)
