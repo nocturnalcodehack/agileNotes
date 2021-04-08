@@ -1,4 +1,4 @@
-Perception of difference in psychometics is **not noticed** when there are more items on the table.
+Perception of difference is **not noticed** when there are more items on the table.
 
 ## Linear Change
 |Low|High|% Change|
