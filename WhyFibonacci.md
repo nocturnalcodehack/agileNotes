@@ -6,7 +6,10 @@ Perception of difference in psychometics is not noticed when there are more item
 |1|2|100|
 |2|3|50|
 |3|4|33|
-|4|5|20|
+|4|5|25|
+|5|6|20|
+|6|7|17|
+|7|8|14|
 
 
 ## Fibonacci Change
