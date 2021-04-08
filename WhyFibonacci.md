@@ -1,4 +1,4 @@
-Perception of difference is **not noticed** when there are more items on the table.
+Perception of difference is **not noticed** as the number of items (e.g., points) in view increases
 
 ## Linear Change
 |Low|High|% Change|
