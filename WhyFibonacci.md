@@ -1,6 +1,6 @@
 Perception of difference is **not noticed** as the number of items (e.g., points) in view increases
 
-## Single-Step Linear Change
+## Single-Step Change
 |Low|High|% Change|
 |---|----|--------|
 |1|2|100|
