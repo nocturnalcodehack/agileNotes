@@ -2,7 +2,7 @@
 
 ## Pritorization
 * Weighted Shortest Job First *[Guide](https://www.scaledagileframework.com/wsjf/)*
-* *[Eisenhouer Matrix](https://todoist.com/productivity-methods/eisenhower-matrixhttps://todoist.com/productivity-methods/eisenhower-matrix)*
+* *[Eisenhouer Matrix](https://todoist.com/productivity-methods/eisenhower-matrix)*
 
 ||Urgent|Not Urgent|
 |--|--|--|
