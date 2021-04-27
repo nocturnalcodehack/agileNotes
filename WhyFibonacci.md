@@ -1,4 +1,4 @@
-Perception of difference is **not noticed** as the number of items (e.g., points) in view increases (Fenchers Law)
+Human perception of difference is **not noticed** as the number of items (e.g., points) in view increases (Fenchers Law)
 
 ## Single-Step Change
 |Low|High|% Change|
